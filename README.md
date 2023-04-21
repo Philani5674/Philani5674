@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philani Ngcamu</h1>
-<h3 align="center">A passionate Software developer from Pietermaritzburg</h3>
+<h3 align="center">Detail-oriented software developer with a Bachelor's degree in Information Systems and Technology, specializing in systems analysis and design. Practical knowledge of programming languages such as Python, Java, and C#, and a strong foundation in object-oriented programming and test-driven development. Passionate about developing high-quality software applications that meet user requirements and striving to improve code quality, structure, readability, and efficiency in a systematic manner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philani5674&label=Profile%20views&color=0e75b6&style=flat" alt="philani5674" /> </p>
 
