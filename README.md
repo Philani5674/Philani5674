@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/Philani5674/Philani5674/assets/62145841/4dcfee3f-5b36-4fc5-b7d9-6bfffd10dc85" alt="Profile View Count" />
 </p>
@@ -61,13 +62,7 @@
 <h2 align="center">GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philani5674&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=philani5674&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=philani5674" alt="GitHub Streak" />
 </p>
 
@@ -83,3 +78,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=philani5674&repo=Repo3" alt="Repo3" />
   </a>
 </p>
+
+
+
+
+
+
+
