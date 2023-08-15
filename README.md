@@ -72,10 +72,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=philani5674" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">Top Repositories:</h3>
+<h3 align="center">Top 3 Repositories:</h3>
 <p align="center">
   <a href="https://github.com/Philani5674/Repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=philani5674&repo=Repo1" alt="Repo1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=philani5674&repo=School-registration-website" alt="Repo1" />
   </a>
   <a href="https://github.com/Philani5674/Repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=philani5674&repo=Repo2" alt="Repo2" />
