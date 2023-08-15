@@ -66,6 +66,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=philani5674" alt="GitHub Streak" />
 </p>
 
+<h2 align="center">Contributions:</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=philani5674" alt="GitHub Trophies" />
+</p>
+
+<h2 align="center">Recent Activity:</h2>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=philani5674" alt="GitHub Activity Graph" />
+</p>
+
+
 <h2 align="center">Top Repositories:</h2>
 <p align="center">
   <a href="https://github.com/Philani5674/School-registration-website">
