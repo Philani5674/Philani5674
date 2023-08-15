@@ -2,21 +2,19 @@
   <img src="https://github.com/Philani5674/Philani5674/assets/62145841/4dcfee3f-5b36-4fc5-b7d9-6bfffd10dc85" alt="Profile View Count" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Philani Ngcamu</h1>
-<h3 align="center">Detail-oriented software developer with a Bachelor's degree in Information Systems and Technology, specializing in systems analysis and design. Practical knowledge of programming languages such as Python, Java, and C#, and a strong foundation in object-oriented programming and test-driven development. Passionate about developing high-quality software applications that meet user requirements and striving to improve code quality, structure, readability, and efficiency in a systematic manner.</h3>
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">I'm Philani Ngcamu, a detail-oriented software developer with a passion for creating high-quality applications. Welcome to my GitHub profile!</h3>
 
 <p align="center">
-  <a href="mailto:philaningcamu18@gmail.com">📫 Contact Me</a>
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+  <a href="mailto:philaningcamu18@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-philaningcamu18%40gmail.com-blue" alt="Contact Me" />
+  </a>
   <a href="https://linkedin.com/in/philani-ngcamu-3a48401a2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn" />
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
@@ -60,6 +58,7 @@
   </a>
 </p>
 
+<h2 align="center">GitHub Stats:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=philani5674&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
@@ -72,10 +71,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=philani5674" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">Top 3 Repositories:</h3>
+<h2 align="center">Top Repositories:</h2>
 <p align="center">
-  <a href="https://github.com/Philani5674/Repo1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=philani5674&repo=School-registration-website" alt="Repo1" />
+  <a href="https://github.com/Philani5674/School-registration-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=philani5674&repo=School-registration-website" alt="School Registration Website" />
   </a>
   <a href="https://github.com/Philani5674/Repo2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=philani5674&repo=Repo2" alt="Repo2" />
