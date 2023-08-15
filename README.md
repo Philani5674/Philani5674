@@ -72,23 +72,11 @@
 </p>
 
 <h2 align="center">Recent Activity:</h2>
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=philani5674" alt="GitHub Activity Graph" />
+<<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=philani5674&bg_color=ffffff&color=4caf50&line=4caf50&point=4caf50&area=true" alt="GitHub Activity Graph" />
 </p>
 
 
-<h2 align="center">Top Repositories:</h2>
-<p align="center">
-  <a href="https://github.com/Philani5674/School-registration-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=philani5674&repo=School-registration-website" alt="School Registration Website" />
-  </a>
-  <a href="https://github.com/Philani5674/Repo2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=philani5674&repo=Repo2" alt="Repo2" />
-  </a>
-  <a href="https://github.com/Philani5674/Repo3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=philani5674&repo=Repo3" alt="Repo3" />
-  </a>
-</p>
 
 
 
